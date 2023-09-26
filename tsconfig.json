@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+      "lib": [ "es2025", "es2025.promise", "dom" ],
+     }
+}
